@@ -1,3 +1,4 @@
+# Written by Matthew Winn
 # Start with an input form
 form Enter directory to save your sounds
      sentence directory C:\Type Directory Here
