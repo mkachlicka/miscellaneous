@@ -1,4 +1,4 @@
-# How to install SOX on Mac?
+# How to install SOX on Mac
 <br>
 
 <p><h2><b>Step 1: Install Homebrew</h2></b></p>
