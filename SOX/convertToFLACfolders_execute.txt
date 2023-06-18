@@ -1,0 +1,4 @@
+chmod +x convertToFLACfolders.sh
+
+./convertToFLACfolders.sh
+
