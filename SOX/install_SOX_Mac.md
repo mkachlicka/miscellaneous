@@ -11,6 +11,7 @@
 <p>To set the path execute:
 
 ``` echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/$USER/.zprofile ```
+
 ``` eval $(/opt/homebrew/bin/brew shellenv) ```
 </p>
 
