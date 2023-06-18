@@ -12,7 +12,7 @@
 
 ``` echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/$USER/.zprofile ```
 ``` eval $(/opt/homebrew/bin/brew shellenv) ```
-</p><br>
+</p>
 
 <p>Check if installed (it should print some help notes):
 
@@ -38,5 +38,3 @@
 
 ``` !play filename.wav ```
 </p>
-<br>
-<p>Voila!</p>
