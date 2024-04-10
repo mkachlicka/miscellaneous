@@ -1,3 +1,9 @@
+%%
+% Created on 12 Mar 2024
+
+% @author: mkachlicka
+%%
+
 %addpath('/Users/mkachlicka/Documents/production')
 %%
 % Get all .wav files in the folder
